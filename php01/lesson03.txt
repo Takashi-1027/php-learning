@@ -53,3 +53,12 @@ break文は現在のループを強制的に中断する命令です。for, whil
 break文はif文などの条件文と組み合わせて利用するのが一般的です。
 
 参考画像：PHP_image_34.jpg
+
+
+continue文
+continue
+ループそのものを完全に抜けてしまうbreak文に対して、continue文は現在の周だけをスキップし、
+ループそのものは継続して実行します。
+continue文もfor,while,foreachなどの繰り返し分の中で利用できます。　
+
+参考画像：PHP_image_35.jpg
